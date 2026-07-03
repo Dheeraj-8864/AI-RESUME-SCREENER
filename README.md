@@ -24,8 +24,7 @@ It provides match scores, keyword insights, and personalized recommendations, he
 ## **🚀 Setup & Installation**
 ###1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/Abdulbasith0512/ATS-Resume-Scorer.git
-cd ATS-Resume-Scorer
+git clone https://github.com/Dheeraj-8864/AI-RESUME-SCREENER/edit/main/README.md
 --- 
 
 ## **2️⃣ Create Virtual Environment (Optional)**
@@ -79,6 +78,6 @@ POST /api/score-resume
 ---
 
 ## **📩 Contact**
-👤 **Abdul Basith**  
-📧 [basithsd12@gmail.com](mailto:basithsd12@gmail.com)  
-💼 LinkedIn: [Abdul Basith](https://www.linkedin.com/in/abdul-basith-5616282ab)  
+👤 **Attuluri Dheeraj**  
+📧 [dheerajattuluri8466@gmail.com]
+💼 LinkedIn: [Attuluri Dheeraj](https://www.linkedin.com/in/dheeraj-attuluri-841486335/)  
